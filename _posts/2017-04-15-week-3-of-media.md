@@ -1,15 +1,15 @@
 ---
-title: Lesson 2
+title: Lesson 1
 layout: post
 author: liam.moss
-permalink: /week-3-of-media/
+permalink: /week-1/
 source-id: 1KkwAA7Mhu5oPk7KupmfAHizE8WiSUBc9pIq_f3AWyvA
 published: true
 ---
 <table>
   <tr>
     <td>Title</td>
-    <td>Lesson 2</td>
+    <td>week 1</td>
     <td></td>
     <td>15/01/18</td>
   </tr>
