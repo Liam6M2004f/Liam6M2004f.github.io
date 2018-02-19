@@ -1,15 +1,15 @@
 ---
-title: Week 2
+title: Week 3
 layout: post
 author: liam.moss
-permalink: /-week-2/
+permalink: /-week-3/
 source-id: 1KYsEbxknCGEnaO_Sggeds9MmDPIM3A59wqpozyyngng
 published: true
 ---
 <table>
   <tr>
     <td>Title</td>
-    <td>Week 2</td>
+    <td>Week 3</td>
     <td></td>
     <td>05/02/18</td>
   </tr>
