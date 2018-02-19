@@ -1,5 +1,5 @@
 ---
-title: Copy of week 3 of media
+title: Week 3
 layout: post
 author: liam.moss
 permalink: /copy-of-week-3-of-media/
