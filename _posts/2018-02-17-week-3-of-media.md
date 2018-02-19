@@ -2,7 +2,7 @@
 title: Week 3
 layout: post
 author: liam.moss
-permalink: /copy-of-week-3-of-media/
+permalink: /-week-3/
 source-id: 1KYsEbxknCGEnaO_Sggeds9MmDPIM3A59wqpozyyngng
 published: true
 ---
