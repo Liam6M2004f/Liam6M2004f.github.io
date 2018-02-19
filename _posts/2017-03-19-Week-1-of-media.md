@@ -1,15 +1,15 @@
 ---
-title: Week 3 
+title: Week 2 
 layout: post
 author: liam.moss
-permalink: /week-1-of-media/
+permalink: /week-2/
 source-id: 1wck8sOgnk6PX4wdjjBcUPfgVew37xJ5Ieq2ubkBrLms
 published: true
 ---
 <table>
   <tr>
     <td>Title</td>
-    <td>Week 3 of Fuze</td>
+    <td>Week 2 of Fuze</td>
     <td></td>
     <td>21/01/18</td>
   </tr>
