@@ -1,5 +1,5 @@
 ---
-title: Lesson 1
+title: week 1
 layout: post
 author: liam.moss
 permalink: /week-1/
