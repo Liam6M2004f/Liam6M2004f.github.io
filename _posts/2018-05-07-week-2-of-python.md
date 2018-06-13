@@ -1,5 +1,5 @@
 ---
-title: week 2 of python
+title: week 4 of python
 layout: post
 author: liam.moss
 permalink: /week-2-of-python/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>week 2</td>
+    <td>week 4</td>
     <td></td>
-    <td>3004/18</td>
+    <td>07/06/18</td>
   </tr>
 </table>
 
@@ -23,12 +23,12 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Make it to section 4</td>
+    <td>Make it to section8</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>Yes i did as i made it to section 4 exercise 3</td>
+    <td>Yes i did as i made it to section 8 exercise 1</td>
   </tr>
 </table>
 
@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>The whole lesson was working on codecademy I made it quite far today. The strategy I used was to read the entire question and not give up if I couldn't do something, this helped particularly as i got stuck a few times.</td>
+    <td>Today we did loads of work on CodeCademy and started right away, we just came back from half term and during the half term I did quite a lot of work on python. So when we got back I wasn't completely lost. I made good progress today.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>Mr Keen didn’t check our blogs so we could just get straight to work this always help us to do as much work as possible, if he does check our blogs then it takes ten minutes which is ten minutes of work we could of done.</td>
+    <td>Mr Keen didn’t check our blogs again so that’s how we got straight to work. Today my typing was very good and I didn’t make many errors, the problem was that I didn’t always read the entire text before the question so I would do some things wrong.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>next time I hope I can work faster so I can more work done, this means that I can get onto Mr.Keens fun challenges. I think there are 12 sections to do for python so I am getting closer and closer.</td>
+    <td>Next time I will try to read the entire passage before every question, this will ensure that I don’t make silly mistakes. I could also maybe work quicker but I think part of that is because I didn’t read the entire question each time.</td>
   </tr>
 </table>
 
